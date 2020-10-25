@@ -20,6 +20,8 @@ Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location al
 * 💻 I develop utilities and tools in Python.
 * 🗞 USB Canary was featured in [Bleeping Computer](https://www.bleepingcomputer.com/news/software/usb-canary-sends-an-sms-when-someone-tinkers-with-your-usb-ports/) in 2017.
 
+🔮 [Find out More](https://errbufferoverfl.me/about/)
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -65,9 +67,7 @@ In this talk we are going to do the time warp back to the 1930’s and see what 
 
 [PyCon 2018 Security & Privacy Track](https://www.youtube.com/watch?v=dA_rwYoy81U) | [OWASP AppSec Day](https://www.youtube.com/watch?v=3UE59HzWdbw) | [PurpleCon (PDF)](https://2018.purplecon.nz/archive/errbufferoverfl/agloe_what_the%20map_makers_of%20the_1930s_can%20teach_us_about%20protecting_data_in_2018.pdf)
 
-[View the Complete List](https://errbufferoverfl.me/about/)
-
-<h3> 🎖 &nbsp;Certification</h3>
+<h3> 🎖 &nbsp;Certifications</h3>
 
 * Bachelor of Information Technology (Security)
 * PECB Certified ISO/IEC 27001 Implementer
