@@ -7,7 +7,7 @@
 <a href="https://github.com/errbufferoverfl">
   <img align="left" alt="Buffy's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<br>
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 <img align="right" alt="" src="https://pbs.twimg.com/profile_images/1316325058499944448/mIOSbACJ_400x400.jpg" />
