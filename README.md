@@ -71,7 +71,7 @@ In this talk we are going to do the time warp back to the 1930’s and see what 
 
 * Bachelor of Information Technology (Security)
 
-<img align="right" alt="PECB ISO/ICE 27001 Implementer Badge" src="https://raw.githubusercontent.com/errbufferoverfl/errbufferoverfl/main/ISO-IEC-27001-Implementer.png" width='250'/>
+<img alt="PECB ISO/ICE 27001 Implementer Badge" src="https://raw.githubusercontent.com/errbufferoverfl/errbufferoverfl/main/ISO-IEC-27001-Implementer.png" width='250'/>
 
 ---
 
