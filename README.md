@@ -16,7 +16,7 @@ Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location al
 
 * 👩🏻‍💻 Senior Security Consultant in Melbourne, focusing on cloud security (AWS, GCP, Azure) and ISO27001.
 * ✒️ Background in SecOps and web application penetration testing.
-* 📚 I blog about the intersection of technology, governance and security at [errbufferoverfl.me](https://errbufferoverfl.me).
+* 📚 I blog about the intersection of technology, governance and security at [errbufferoverfl.me](https://www.errbufferoverfl.me).
 * 💻 I develop utilities and tools in Python.
 * 🗞 USB Canary was featured in [Bleeping Computer](https://www.bleepingcomputer.com/news/software/usb-canary-sends-an-sms-when-someone-tinkers-with-your-usb-ports/) in 2017.
 
