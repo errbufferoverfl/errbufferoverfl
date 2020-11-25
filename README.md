@@ -20,7 +20,7 @@ Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location al
 * 💻 I develop utilities and tools in Python.
 * 🗞 USB Canary was featured in [Bleeping Computer](https://www.bleepingcomputer.com/news/software/usb-canary-sends-an-sms-when-someone-tinkers-with-your-usb-ports/) in 2017.
 
-🔮 [Find out More](https://errbufferoverfl.me/about/)
+🔮 [Find out More](https://www.errbufferoverfl.me/about/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
