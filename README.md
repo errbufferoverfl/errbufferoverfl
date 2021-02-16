@@ -14,7 +14,7 @@
 
 Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location along the cyber ley lines. For the past three years she has been using the mystical powers handed down for generations to write 🐍 Python code and consult on security arts.
 
-* 👩🏻‍💻 Senior Security Consultant in Melbourne, focusing on cloud security (AWS, GCP, Azure) and ISO27001.
+* 👩🏻‍💻 Security Engineer at Canva.
 * ✒️ Background in SecOps and web application penetration testing.
 * 📚 I blog about the intersection of technology, governance and security at [errbufferoverfl.me](https://www.errbufferoverfl.me).
 * 💻 I develop utilities and tools in Python.
@@ -40,6 +40,12 @@ Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location al
 <h3> 🎤 &nbsp;Meetups, Conferences and Training Appearances</h3>
 
 ### 2019
+
+#### [Debate] The Big Cloud Security Debate: Hackers vs Security Engineers - November 2019
+
+A debate organised by ANZ, Contino and Meetup Madness where 4 hackers vs 4 security experts engaging in a fiery debate to determine all the ways they can hack and defend cloud environments. errbufferoverfl participated as part of the "hackers"/"red team".
+
+[Debate Recording](https://www.youtube.com/watch?v=1Na_G9jnc0Y&list=PLtrnHiBgf6dB-sBZht63iR0BEQLAljBlK)
 
 #### [Conference] A Brief History of Tamper Evident Locks - October 2019
 
