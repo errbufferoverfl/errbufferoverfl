@@ -12,11 +12,11 @@
 
 <img align="right" alt="" src="https://pbs.twimg.com/profile_images/1316325058499944448/mIOSbACJ_400x400.jpg" />
 
-Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location along the cyber ley lines. For the past three years she has been using the mystical powers handed down for generations to write 🐍 Python code and consult on security arts.
+Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location along the cyber ley lines. For the past five years she has been using the mystical powers handed down for generations to write 🐍 Python code and manifest herself into the security engineer she is today.
 
 * 👩🏻‍💻 Security Engineer at Canva.
-* ✒️ Background in SecOps and web application penetration testing.
-* 📚 I blog about the intersection of technology, governance and security at [errbufferoverfl.me](https://www.errbufferoverfl.me).
+* ✒️ Background in SecOps, web application penetration testing, cloud security.
+* 📚 I blog about the intersection of technology, governance and security and people first security principals.
 * 💻 I develop utilities and tools in Python.
 * 🗞 USB Canary was featured in [Bleeping Computer](https://www.bleepingcomputer.com/news/software/usb-canary-sends-an-sms-when-someone-tinkers-with-your-usb-ports/) in 2017.
 
