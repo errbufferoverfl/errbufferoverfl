@@ -51,7 +51,7 @@ A debate organised by ANZ, Contino and Meetup Madness where 4 hackers vs 4 secur
 
 A talk that discussed common "canary locks" or locks with tamper evident mechanisms through the ages, Buffy trawlled through 11,335,427 patents to identify several high and low profile locks and their known, or speculated bypass techniques.
 
-[LockCon](https://toool.nl/LockCon) | Download the Slides (Coming Soon)
+[LockCon](https://toool.nl/LockCon) | [View the Slides](https://www.errbufferoverfl.me/posts/2019/a-brief-history-of-tamper-evident-locks/)
 
 #### [Training] Snake Charming for Beginners - April 2019
 
