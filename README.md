@@ -12,7 +12,7 @@
 
 <img align="right" alt="" src="https://pbs.twimg.com/profile_images/1316325058499944448/mIOSbACJ_400x400.jpg" />
 
-Buffy (she/her) was born of a 🌑 moon-less night in an undisclosed location along the cyber ley lines. For the past five years she has been using the mystical powers handed down for generations to write 🐍 Python code and manifest herself into the security engineer she is today.
+Buffy (she/they) was born of a 🌑 moon-less night in an undisclosed location along the cyber ley lines. For the past five years she has been using the mystical powers handed down for generations to write 🐍 Python code and manifest herself into the security engineer she is today.
 
 * 👩🏻‍💻 Security Engineer at Canva.
 * ✒️ Background in SecOps, web application penetration testing, cloud security.
